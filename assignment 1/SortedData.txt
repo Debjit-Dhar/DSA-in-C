@@ -1,0 +1,4 @@
+Ice Lake
+Pentium
+Tiger Lake
+z13
